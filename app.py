@@ -1,4 +1,4 @@
-zemlje = ['Republika Hrvatska','Srbija','Argetina']
+zemlje = ['Republika Hrvatska','Argetina']
 
 for z in zemlje:
 	print(z)
